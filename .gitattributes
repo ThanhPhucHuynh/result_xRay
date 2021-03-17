@@ -1,2 +1,8 @@
 exp/weights/best.pt filter=lfs diff=lfs merge=lfs -text
 exp/weights/last.pt filter=lfs diff=lfs merge=lfs -text
+exp0_15/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+exp0_15/weights/last.pt filter=lfs diff=lfs merge=lfs -text
+exp2_15_20/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+exp2_15_20/weights/last.pt filter=lfs diff=lfs merge=lfs -text
+exp3_20_35/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+exp3_20_35/weights/last.pt filter=lfs diff=lfs merge=lfs -text
